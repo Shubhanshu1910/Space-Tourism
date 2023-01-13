@@ -1,0 +1,442 @@
+body{
+    border-style:solid;
+}
+
+
+.img{
+    position: absolute;
+
+    height: 94px;
+    left: 618.88px;
+    top: 42px;
+    padding-left: 10px;
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(40.7742px);
+    width: 810px;
+
+}
+
+
+
+
+.span{ 
+    font-family: Barlow Condensed;
+    padding-right: 15px;
+    font-family: Barlow Condensed;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 2.700000047683716px;
+text-align: left;
+
+}
+
+a{
+    text-decoration: none;
+    color:rgb(145, 139, 150)
+}
+.nex{
+    position: absolute;
+    width: 605px;
+    height: 600px;
+    left: 150px;
+    top: 300px;
+color:white;
+font-family: Barlow Condensed;
+}
+.nex1{
+    position: absolute;
+    width: 605px;
+    height: 600px;
+    left: 100px;
+    top: 175px;
+color:white;
+font-family: 'Barlow Condensed';
+ letter-spacing: 4.75px;
+ margin-left:75px;
+ line-height: 2;
+    letter-spacing: 4.75px;
+}
+.space{
+    font-size: 5rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family:'Bellefair';
+    line-height: 1.6;
+    font-style: normal;
+    
+} 
+.face{
+line-height: 2;
+letter-spacing: 4.75px;
+}
+.mirr{
+ position: absolute;
+
+    bottom: 250px;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 396px;
+    right: 160px;
+    left: 1000px;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+
+.mi1{
+    
+    position: absolute;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    margin-left: 49px;
+   
+}
+.robo{ position: absolute;
+    bottom: 250px;
+    width: 300px;
+    height: 300px;
+    top: 349px;
+    border-radius: 50%;
+    right: 160px;
+    left: 955px;
+    background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.1;
+}
+.Des{
+   color: #FFFFFF;
+        position: absolute;
+       
+           bottom: 250px;
+           
+           width: 400px;
+           height: 500px;
+           top: 396px;
+           right: 160px;
+           left: 1000px;
+}
+.nex2{
+    position: absolute;
+    width: 445px;
+height: 472px;
+    right: 163px;
+    top: 300px;
+color:white;
+font-family: 'Barlow Condensed';
+ letter-spacing: 0.75px;
+ margin-left:75px;
+ line-height: 2;
+   
+    font-size: 0.8rem;
+}
+.poi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:grey;
+    border-radius:50%;
+}
+.poi:hover{
+    background-color: grey;
+}
+.poi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:white;
+    border-radius:50%;
+}
+.poi1:hover{
+    background-color: grey;
+}
+.poi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:white;
+    border-radius:50%;
+}
+.poi2:hover{
+    background-color: grey;
+}
+.poi3{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 150px;
+    background-color:white;
+    border-radius:50%;
+}
+.poi3:hover{
+    background-color: grey;
+}
+.apoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:white;
+    border-radius:50%;
+}
+.apoi:hover{
+    background-color: grey;
+}
+.apoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:grey;
+    border-radius:50%;
+}
+.apoi1:hover{
+    background-color: grey;
+}
+.apoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:white;
+    border-radius:50%;
+}
+.apoi2:hover{
+    background-color: grey;
+}
+.apoi3{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 150px;
+    background-color:white;
+    border-radius:50%;
+}
+.apoi3:hover{
+    background-color: grey;
+}
+.bpoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:white;
+    border-radius:50%;
+}
+.bpoi:hover{
+    background-color: grey;
+}
+.bpoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:white;
+    border-radius:50%;
+}
+.bpoi1:hover{
+    background-color: grey;
+}
+.bpoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:grey;
+    border-radius:50%;
+}
+.bpoi2:hover{
+    background-color: grey;
+}
+.bpoi3{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 150px;
+    background-color:white;
+    border-radius:50%;
+}
+.bpoi3:hover{
+    background-color: grey;
+}
+.cpoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:white;
+    border-radius:50%;
+}
+.cpoi:hover{
+    background-color: grey;
+}
+.cpoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:white;
+    border-radius:50%;
+}
+.cpoi1:hover{
+    background-color: grey;
+}
+.cpoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:white;
+    border-radius:50%;
+}
+.cpoi2:hover{
+    background-color: grey;
+}
+.cpoi3{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 150px;
+    background-color:grey;
+    border-radius:50%;
+}
+.cpoi3:hover{
+    background-color: grey;
+}
+.atoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 0px;
+    background-color:grey;
+    border-radius:50%;
+}
+.atoi:hover{
+    background-color: grey;
+}
+.atoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:white;
+    border-radius:50%;
+}
+.atoi1:hover{
+    background-color: grey;
+}
+.atoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:white;
+    border-radius:50%;
+}
+.atoi2:hover{
+    background-color: grey;
+}
+.btoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:white;
+    border-radius:50%;
+}
+.btoi:hover{
+    background-color: grey;
+}
+.btoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:grey;
+    border-radius:50%;
+}
+.btoi1:hover{
+    background-color: grey;
+}
+.btoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:white;
+    border-radius:50%;
+}
+.btoi2:hover{
+    background-color: grey;
+}
+.ctoi{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    
+    background-color:white;
+    border-radius:50%;
+}
+.ctoi:hover{
+    background-color: grey;
+}
+.ctoi1{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 50px;
+    background-color:white;
+    border-radius:50%;
+}
+.ctoi1:hover{
+    background-color: grey;
+}
+.ctoi2{
+    position:absolute;
+    bottom: 100px;
+    height:10px;
+    width:10px;
+    left: 100px;
+    background-color:grey;
+    border-radius:50%;
+}
+.ctoi2:hover{
+    background-color: grey;
+}
+.bottom-container{     
+    margin-top: 50%;
+    color: rgb(209, 209, 209);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* background-color: rgb(55, 220, 220); */
+   margin-left: 750px;
+
+}
